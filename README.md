@@ -3,7 +3,9 @@
 
 Comments: Must ensure you have the proper solidity versions so you code compiles
 <br>
+<br>
 Must have truffle, Ganache and Metamask
+<br>
 <br>
 pre steps
 <br>
@@ -12,9 +14,12 @@ download truffle ganache meta mask and node
 <br>
 npm truffle init
 <br>
+<br>
 Clone repository, apply testing techniques with truffle in CLI $ truffle test
 <br>
+<br>
 learn truffle commands and apply to the code via CLI
+<br>
 <br>
 Step 1: View the HTML code 
 <br>
