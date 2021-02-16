@@ -2,16 +2,19 @@
  Solidiy | Ethereum | Task List
 
 Comments: Must ensure you have the proper solidity versions so you code compiles
+<br>
 Must have truffle, Ganache and Metamask
-
+<br>
 pre steps
+<br>
 download truffle ganache meta mask and node
+<br>
 npm truffle init
-
+<br>
 Clone repository, apply testing techniques with truffle in CLI $ truffle test
+<br>
 learn truffle commands and apply to the code via CLI
-
-
+<br>
 Step 1: View the HTML code 
 <br>
 Step 2: Edit the HTML site to your liking and add or take away tasks
