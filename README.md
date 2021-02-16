@@ -13,6 +13,7 @@ learn truffle commands and apply to the code via CLI
 
 
 Step 1: View the HTML code 
+<br>
 Step 2: Edit the HTML site to your liking and add or take away tasks
 Step 3: Open Ganache
 Step 4: Open Metamask
