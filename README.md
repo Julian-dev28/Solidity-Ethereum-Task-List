@@ -7,6 +7,7 @@ Must have truffle, Ganache and Metamask
 <br>
 pre steps
 <br>
+<br>
 download truffle ganache meta mask and node
 <br>
 npm truffle init
